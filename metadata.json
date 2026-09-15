@@ -1,0 +1,6 @@
+{
+  "name": "Markdown WYSIWYG Editor",
+  "description": "Modern markdown editor featuring full inline WYSIWYG editing, floating format toolbar, slash commands, split view, and instant HTML export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
